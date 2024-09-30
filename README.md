@@ -6,3 +6,6 @@ Access notebook in order:
 3. Final Notebook_Weather.ipynb
 
 **Details** - I worked on building a driving assistance conversation agent which takes query/command from the user regarding different car & driving-related functionalities like inquiry about weather or navigation path, steering assistance, using car features like Bluetooth, AC, etc., or commands like opening/closing car windows/doors, even advanced functionality scheduling meetings, booking tickets, etc. and by understanding the intent of the command can provide an appropriate response.
+
+
+**Dataset**- (dataset)[https://drive.google.com/file/d/1QoGVkgzyKGX8ojCKf9iwyxkL5MxyDZFn/view?usp=sharing]
